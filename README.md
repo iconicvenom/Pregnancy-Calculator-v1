@@ -1,4 +1,4 @@
-# 🤰 Pregnancy Calculator - Your Beautiful Journey
+# 🤰🏻 Pregnancy Calculator - Your Beautiful Journey
 
 A modern, user-friendly pregnancy calculator website designed with expectant mothers in mind. Features a calming, welcoming atmosphere with soft colors, smooth animations, and an intuitive interface.
 
